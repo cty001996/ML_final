@@ -1,6 +1,0 @@
-OUTPUT_FILE = "output.csv"
-
-EPOCHS = 300
-BATCH_SIZE = 256
-LEARNING_RATE = 0.0007
-
